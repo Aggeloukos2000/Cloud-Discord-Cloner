@@ -1,4 +1,4 @@
-# CLOUD Team server copier
+# Lacoste Team server copier
 
 1. Enter token in .env
 2. Run start.bat
