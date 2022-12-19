@@ -4,4 +4,4 @@
 2. Run start.bat
 
 
-https://discord.gg/ZeRzsvJJ
+https://discord.gg/jE7CPe4E8R
